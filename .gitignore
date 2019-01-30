@@ -1,0 +1,31 @@
+syntax: glob
+.DS_Store
+*.orig
+*.rej
+*~
+*.o
+*.pyc
+*.pyo
+*.pyb
+*.pyd
+*.log
+*.mo
+*.so
+Thumbs.db
+include/
+.idea/
+lib/
+build/
+.Python
+.project
+.pydevproject
+.venv
+syntax: regexp
+.*\#.*\#$
+
+syntax: regexp
+^src/rpo/local_settings\.py$
+syntax: regexp
+^src/rpo/local_settings\.py$
+syntax: regexp
+.vscode

@@ -1,0 +1,18 @@
+# django
+Django==2.1.5
+# Django rest frame work
+djangorestframework==3.9.1
+# Python-PostgreSQL Database Adapter
+psycopg2==2.7.3.2
+# Python WSGI HTTP Server for UNIX
+gunicorn==19.7.1
+# a collection of custom extensions for the Django Framework
+django-extensions==2.1.4
+# A configurable set of panels that display various debug information about the current request/response.
+django-debug-toolbar==1.11
+#DRF-extensions is a collection of custom extensions for Django REST Framework
+drf-extensions==0.4.0
+# rate limit
+django-ratelimit==2.0.0
+# dependence by django extentions
+Werkzeug==0.14.1

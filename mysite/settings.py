@@ -30,6 +30,7 @@ ALLOWED_HOSTS = ['192.168.244.92']
 # Application definition
 
 INSTALLED_APPS = [
+    'grappelli'
     'polls.apps.PollsConfig',
     'django.contrib.admin',
     'django.contrib.auth',

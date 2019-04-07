@@ -5,6 +5,6 @@ base django
 
 ```
 conda  create --name base_django python=3.6
-pip install -r requirements.txt -i http://pypi.douban.com/simple/ --trusted-host=pypi.douban.com/simple
+pip install -r requirements.txt -i http://pypi.douban.com/simple/ --trusted-host=pypi.douban.com
 ```
 
